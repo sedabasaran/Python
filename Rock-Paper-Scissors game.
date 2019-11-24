@@ -1,3 +1,9 @@
+###Remember the rules:
+
+Rock beats scissors
+Scissors beats paper
+Paper beats rock ###
+
 import sys
 
 kullanıcı1= input("birinci oyuncunun adı?\n")
