@@ -1,5 +1,5 @@
-def emoji_cevirici(kullanıcı):
-    sözcükler= kullanıcı.split(" ")
+def emoji_cevirici(kullanici):
+    sözcükler= kullanici.split(" ")
     emojiler= {
         ":)":"😃",
         ":(":"😞",
@@ -21,5 +21,5 @@ def emoji_cevirici(kullanıcı):
     return sonuc
 
 
-kullanıcı=input(">")
-print(emoji_cevirici(kullanıcı))
+kullanici=input(">")
+print(emoji_cevirici(kullanici))
