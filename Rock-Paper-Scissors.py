@@ -1,8 +1,8 @@
 ###Remember the rules:
 
-Rock beats scissors
-Scissors beats paper
-Paper beats rock ###
+#Rock beats scissors
+#Scissors beats paper
+#Paper beats rock ###
 
 import sys
 
